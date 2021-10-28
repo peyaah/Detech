@@ -51,7 +51,6 @@
      </property>
      <property name="font">
       <font>
-       <family>Roboto</family>
        <pointsize>10</pointsize>
       </font>
      </property>
@@ -167,7 +166,6 @@
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
           </font>
          </property>
@@ -222,7 +220,6 @@ QPushButton{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
           </font>
          </property>
@@ -271,7 +268,6 @@ QPushButton{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
           </font>
          </property>
@@ -310,14 +306,13 @@ QPushButton{
          <property name="geometry">
           <rect>
            <x>0</x>
-           <y>680</y>
+           <y>160</y>
            <width>261</width>
            <height>51</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
           </font>
          </property>
@@ -339,7 +334,7 @@ QPushButton{
 }</string>
          </property>
          <property name="text">
-          <string> Settings</string>
+          <string> Settings      </string>
          </property>
          <property name="icon">
           <iconset resource="detechRs.qrc">
@@ -399,7 +394,7 @@ QPushButton{
         </rect>
        </property>
        <property name="currentIndex">
-        <number>7</number>
+        <number>4</number>
        </property>
        <widget class="QWidget" name="profile_page">
         <widget class="QLabel" name="rectangle_frame_2">
@@ -453,7 +448,6 @@ QPushButton{
             <widget class="QLabel" name="nameStore_label">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>25</pointsize>
               </font>
              </property>
@@ -469,7 +463,6 @@ QPushButton{
             <widget class="QLabel" name="typeStore_label">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>12</pointsize>
               </font>
              </property>
@@ -497,7 +490,6 @@ QPushButton{
             <widget class="QLabel" name="label_19">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>10</pointsize>
                <weight>75</weight>
                <bold>true</bold>
@@ -515,7 +507,6 @@ QPushButton{
             <widget class="QLabel" name="label_20">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>10</pointsize>
                <weight>75</weight>
                <bold>true</bold>
@@ -533,7 +524,6 @@ QPushButton{
             <widget class="QLabel" name="label_22">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>10</pointsize>
                <weight>75</weight>
                <bold>true</bold>
@@ -551,7 +541,6 @@ QPushButton{
             <widget class="QLabel" name="label_23">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>10</pointsize>
                <weight>75</weight>
                <bold>true</bold>
@@ -570,7 +559,7 @@ QPushButton{
          <widget class="QWidget" name="verticalLayoutWidget_6">
           <property name="geometry">
            <rect>
-            <x>180</x>
+            <x>190</x>
             <y>200</y>
             <width>391</width>
             <height>301</height>
@@ -581,7 +570,6 @@ QPushButton{
             <widget class="QLabel" name="nameDisplay_label">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>12</pointsize>
                <weight>50</weight>
                <bold>false</bold>
@@ -599,7 +587,6 @@ QPushButton{
             <widget class="QLabel" name="storeAddDisplay_label">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>12</pointsize>
                <weight>50</weight>
                <bold>false</bold>
@@ -617,7 +604,6 @@ QPushButton{
             <widget class="QLabel" name="cityDisplay_label">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>12</pointsize>
                <weight>50</weight>
                <bold>false</bold>
@@ -635,7 +621,6 @@ QPushButton{
             <widget class="QLabel" name="countryDisplay_label">
              <property name="font">
               <font>
-               <family>Roboto</family>
                <pointsize>12</pointsize>
                <weight>50</weight>
                <bold>false</bold>
@@ -655,15 +640,14 @@ QPushButton{
         <widget class="QPushButton" name="changePass_button">
          <property name="geometry">
           <rect>
-           <x>760</x>
+           <x>750</x>
            <y>570</y>
-           <width>151</width>
+           <width>161</width>
            <height>28</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
            <weight>75</weight>
            <bold>true</bold>
@@ -680,15 +664,14 @@ color: rgb(45, 158, 236);</string>
         <widget class="QPushButton" name="editProfile_button">
          <property name="geometry">
           <rect>
-           <x>870</x>
+           <x>860</x>
            <y>50</y>
-           <width>31</width>
+           <width>41</width>
            <height>24</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
            <weight>75</weight>
            <bold>true</bold>
@@ -725,13 +708,12 @@ color: rgb(45, 158, 236);</string>
           <rect>
            <x>40</x>
            <y>30</y>
-           <width>481</width>
+           <width>711</width>
            <height>41</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>25</pointsize>
            <weight>75</weight>
            <bold>true</bold>
@@ -758,7 +740,7 @@ color: rgb(255, 255, 255);</string>
           <string notr="true"/>
          </property>
          <property name="currentIndex">
-          <number>0</number>
+          <number>3</number>
          </property>
          <widget class="QWidget" name="editUser_page">
           <widget class="QLabel" name="label_46">
@@ -834,7 +816,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -857,7 +838,6 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -958,7 +938,6 @@ background-color: rgba(19, 24, 42, 1);
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -1055,7 +1034,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -1168,7 +1146,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -1191,7 +1168,6 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -1335,7 +1311,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -1358,7 +1333,6 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -1502,7 +1476,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -1556,7 +1529,6 @@ QPushButton:pressed {
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -1626,7 +1598,6 @@ background-color: rgba(19, 24, 42, 1);
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -1692,7 +1663,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -1793,7 +1763,6 @@ background-color: rgba(19, 24, 42, 1);
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
             </font>
            </property>
@@ -1859,7 +1828,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -1954,7 +1922,6 @@ background-color: rgba(19, 24, 42, 1);
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>10</pointsize>
            <weight>50</weight>
            <bold>false</bold>
@@ -1979,7 +1946,6 @@ color: rgb(255, 255, 255);</string>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2028,7 +1994,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2077,7 +2042,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2126,7 +2090,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2175,7 +2138,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2224,7 +2186,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2273,7 +2234,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>13</pointsize>
           </font>
          </property>
@@ -2322,7 +2282,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
            <weight>50</weight>
            <italic>false</italic>
@@ -2483,7 +2442,6 @@ QLineEdit:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
            <weight>50</weight>
            <italic>false</italic>
@@ -2537,7 +2495,6 @@ QPushButton:pressed {
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
            <weight>50</weight>
            <italic>false</italic>
@@ -2591,7 +2548,6 @@ QPushButton:pressed {
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
           </font>
          </property>
@@ -2614,7 +2570,6 @@ color: rgb(255, 255, 255);</string>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
           </font>
          </property>
@@ -2637,7 +2592,6 @@ color: rgb(255, 255, 255);</string>
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>20</pointsize>
            <weight>75</weight>
            <bold>true</bold>
@@ -2734,7 +2688,6 @@ background-color: rgba(19, 24, 42, 1);
           </property>
           <property name="font">
            <font>
-            <family>Roboto</family>
             <pointsize>10</pointsize>
            </font>
           </property>
@@ -2767,7 +2720,6 @@ QPushButton:focus{
           </property>
           <property name="font">
            <font>
-            <family>Roboto</family>
             <pointsize>10</pointsize>
            </font>
           </property>
@@ -2800,7 +2752,6 @@ QPushButton:focus{
           </property>
           <property name="font">
            <font>
-            <family>Roboto</family>
             <pointsize>10</pointsize>
            </font>
           </property>
@@ -2833,7 +2784,6 @@ QPushButton:focus{
           </property>
           <property name="font">
            <font>
-            <family>Roboto</family>
             <pointsize>10</pointsize>
            </font>
           </property>
@@ -2866,7 +2816,6 @@ QPushButton:focus{
           </property>
           <property name="font">
            <font>
-            <family>Roboto</family>
             <pointsize>10</pointsize>
            </font>
           </property>
@@ -3052,24 +3001,34 @@ QPushButton:focus{
         </widget>
        </widget>
        <widget class="QWidget" name="dataHistory_page">
-        <widget class="QComboBox" name="comboBox">
+        <widget class="QComboBox" name="comboClasses">
          <property name="geometry">
           <rect>
            <x>300</x>
-           <y>160</y>
-           <width>231</width>
+           <y>190</y>
+           <width>291</width>
            <height>31</height>
           </rect>
          </property>
-        </widget>
-        <widget class="QComboBox" name="comboBox_2">
-         <property name="geometry">
-          <rect>
-           <x>20</x>
-           <y>160</y>
-           <width>231</width>
-           <height>31</height>
-          </rect>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>10</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QComboBox{
+
+background-color:rgb(207, 207, 207);
+}
+
+QListView
+{
+background-color:rgb(207, 207, 207);
+}
+</string>
          </property>
         </widget>
         <widget class="QLabel" name="label_28">
@@ -3091,9 +3050,9 @@ QPushButton:focus{
         <widget class="QLabel" name="label_29">
          <property name="geometry">
           <rect>
-           <x>30</x>
-           <y>10</y>
-           <width>331</width>
+           <x>40</x>
+           <y>20</y>
+           <width>371</width>
            <height>71</height>
           </rect>
          </property>
@@ -3101,8 +3060,8 @@ QPushButton:focus{
           <font>
            <family>Roboto</family>
            <pointsize>35</pointsize>
-           <weight>75</weight>
-           <bold>true</bold>
+           <weight>50</weight>
+           <bold>false</bold>
           </font>
          </property>
          <property name="styleSheet">
@@ -3112,6 +3071,264 @@ color: rgb(255, 255, 255)</string>
          <property name="text">
           <string>Data History</string>
          </property>
+        </widget>
+        <widget class="QLabel" name="label_30">
+         <property name="geometry">
+          <rect>
+           <x>40</x>
+           <y>100</y>
+           <width>561</width>
+           <height>21</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>9</pointsize>
+           <weight>50</weight>
+           <bold>false</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(0,0,0,0%);
+color: rgb(255, 255, 255)</string>
+         </property>
+         <property name="text">
+          <string>Where you can view the detected violators sorted by dates and its classification.</string>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_31">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>160</y>
+           <width>151</width>
+           <height>20</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>9</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(0,0,0,0%);
+color: rgb(255, 255, 255)</string>
+         </property>
+         <property name="text">
+          <string>Select a date to view:</string>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_32">
+         <property name="geometry">
+          <rect>
+           <x>300</x>
+           <y>160</y>
+           <width>181</width>
+           <height>21</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>9</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(0,0,0,0%);
+color: rgb(255, 255, 255)</string>
+         </property>
+         <property name="text">
+          <string>Select a specific violation:</string>
+         </property>
+        </widget>
+        <widget class="QComboBox" name="comboYear">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>190</y>
+           <width>81</width>
+           <height>31</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>10</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QComboBox{
+
+background-color:rgb(207, 207, 207);
+}
+
+QListView
+{
+background-color:rgb(207, 207, 207);
+}
+</string>
+         </property>
+        </widget>
+        <widget class="QComboBox" name="comboMonth">
+         <property name="geometry">
+          <rect>
+           <x>100</x>
+           <y>190</y>
+           <width>71</width>
+           <height>31</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>10</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QComboBox{
+
+background-color:rgb(207, 207, 207);
+}
+
+QListView
+{
+background-color:rgb(207, 207, 207);
+}
+</string>
+         </property>
+        </widget>
+        <widget class="QComboBox" name="comboDate">
+         <property name="geometry">
+          <rect>
+           <x>190</x>
+           <y>190</y>
+           <width>71</width>
+           <height>31</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <family>Roboto</family>
+           <pointsize>10</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QComboBox{
+
+background-color:rgb(207, 207, 207);
+}
+
+QListView
+{
+background-color:rgb(207, 207, 207);
+}
+</string>
+         </property>
+        </widget>
+        <widget class="QPushButton" name="sortButton">
+         <property name="geometry">
+          <rect>
+           <x>620</x>
+           <y>190</y>
+           <width>121</width>
+           <height>31</height>
+          </rect>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+           <weight>50</weight>
+           <italic>false</italic>
+           <bold>false</bold>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(16, 91, 151, 255), stop:1 rgba(44, 156, 234, 255));
+color: white;
+border-radius: 20px;
+}
+
+QPushButton:hover {
+    background: qradialgradient(
+        cx: 0.3, cy: -0.4, fx: 0.3, fy: -0.4,
+        radius: 1.35, stop: 0 rgb(119, 88, 127), stop: 1 rgb(28, 96, 255)
+        );
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: qradialgradient(
+        cx: 0.4, cy: -0.1, fx: 0.4, fy: -0.1,
+        radius: 1.35, stop: 0 rgb(17, 21, 255), stop: 1 #ddd
+        );
+    }</string>
+         </property>
+         <property name="text">
+          <string>Sort</string>
+         </property>
+         <property name="icon">
+          <iconset resource="detechRs.qrc">
+           <normaloff>:/images/images/ri_login-circle-fill.png</normaloff>:/images/images/ri_login-circle-fill.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>30</width>
+           <height>30</height>
+          </size>
+         </property>
+        </widget>
+        <widget class="QScrollArea" name="scrollArea">
+         <property name="geometry">
+          <rect>
+           <x>7</x>
+           <y>231</y>
+           <width>971</width>
+           <height>501</height>
+          </rect>
+         </property>
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Fixed" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>50</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="verticalScrollBarPolicy">
+          <enum>Qt::ScrollBarAlwaysOn</enum>
+         </property>
+         <property name="horizontalScrollBarPolicy">
+          <enum>Qt::ScrollBarAlwaysOff</enum>
+         </property>
+         <property name="widgetResizable">
+          <bool>true</bool>
+         </property>
+         <widget class="QWidget" name="scrollAreaWidgetContents_2">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>952</width>
+            <height>499</height>
+           </rect>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_2">
+           <item row="0" column="0">
+            <layout class="QGridLayout" name="gridLayout_4"/>
+           </item>
+          </layout>
+         </widget>
         </widget>
        </widget>
        <widget class="QWidget" name="settings_page">
@@ -3679,7 +3896,6 @@ background-color:None;
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>8</pointsize>
           </font>
          </property>
@@ -3736,7 +3952,6 @@ QRadioButton:unchecked {
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>8</pointsize>
           </font>
          </property>
@@ -3794,7 +4009,6 @@ QRadioButton:unchecked {
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
            <weight>50</weight>
            <italic>false</italic>
@@ -3930,7 +4144,7 @@ background-color:None;
           </rect>
          </property>
          <property name="currentIndex">
-          <number>1</number>
+          <number>2</number>
          </property>
          <widget class="QWidget" name="cctvAvailableConnect_page">
           <widget class="QLabel" name="label_80">
@@ -3985,7 +4199,6 @@ background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 		r
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>9</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -4015,7 +4228,6 @@ background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 		r
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -4083,14 +4295,13 @@ QPushButton:pressed {
            <property name="geometry">
             <rect>
              <x>410</x>
-             <y>320</y>
+             <y>330</y>
              <width>151</width>
              <height>51</height>
             </rect>
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -4159,14 +4370,13 @@ background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 		r
            <property name="geometry">
             <rect>
              <x>240</x>
-             <y>220</y>
+             <y>240</y>
              <width>511</width>
              <height>41</height>
             </rect>
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>10</pointsize>
             </font>
            </property>
@@ -4186,7 +4396,7 @@ background: None;
            <property name="geometry">
             <rect>
              <x>240</x>
-             <y>260</y>
+             <y>280</y>
              <width>511</width>
              <height>41</height>
             </rect>
@@ -4275,7 +4485,6 @@ QLineEdit:focus{
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>10</pointsize>
             </font>
            </property>
@@ -4298,7 +4507,6 @@ color:rgb(255, 255, 255)</string>
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>10</pointsize>
             </font>
            </property>
@@ -4325,7 +4533,6 @@ background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 		r
            </property>
            <property name="font">
             <font>
-             <family>Roboto</family>
              <pointsize>12</pointsize>
              <weight>50</weight>
              <italic>false</italic>
@@ -4370,53 +4577,10 @@ QPushButton:pressed {
           </widget>
          </widget>
         </widget>
-        <widget class="QPushButton" name="connectAnalog_button">
-         <property name="geometry">
-          <rect>
-           <x>230</x>
-           <y>170</y>
-           <width>241</width>
-           <height>81</height>
-          </rect>
-         </property>
-         <property name="font">
-          <font>
-           <family>Roboto</family>
-           <pointsize>12</pointsize>
-          </font>
-         </property>
-         <property name="styleSheet">
-          <string notr="true">QPushButton{border-radius: 15px;
-background-color: rgb(19, 24, 42);
-color: rgb(255, 255, 255);
-}
-
-QPushButton:hover:!pressed{
-	background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(30, 37, 65, 255), stop:1 rgba(40, 91, 139, 255))
-}
-
-QPushButton:focus{
-	background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(30, 37, 65, 255), stop:1 rgba(40, 91, 139, 255))
-}</string>
-         </property>
-         <property name="text">
-          <string>Connect Analog</string>
-         </property>
-         <property name="icon">
-          <iconset resource="detechRs.qrc">
-           <normaloff>:/images/images/plusSign.png</normaloff>:/images/images/plusSign.png</iconset>
-         </property>
-         <property name="iconSize">
-          <size>
-           <width>25</width>
-           <height>25</height>
-          </size>
-         </property>
-        </widget>
         <widget class="QPushButton" name="connectIP_button">
          <property name="geometry">
           <rect>
-           <x>520</x>
+           <x>370</x>
            <y>170</y>
            <width>241</width>
            <height>81</height>
@@ -4424,7 +4588,6 @@ QPushButton:focus{
          </property>
          <property name="font">
           <font>
-           <family>Roboto</family>
            <pointsize>12</pointsize>
           </font>
          </property>
@@ -4469,7 +4632,6 @@ QPushButton:focus{
        </property>
        <property name="font">
         <font>
-         <family>Roboto</family>
          <pointsize>30</pointsize>
         </font>
        </property>
@@ -4480,40 +4642,17 @@ QPushButton:focus{
         <string>(username)</string>
        </property>
       </widget>
-      <widget class="QLabel" name="timeDisplay_label">
-       <property name="geometry">
-        <rect>
-         <x>1090</x>
-         <y>60</y>
-         <width>141</width>
-         <height>31</height>
-        </rect>
-       </property>
-       <property name="font">
-        <font>
-         <family>Roboto</family>
-         <pointsize>14</pointsize>
-        </font>
-       </property>
-       <property name="styleSheet">
-        <string notr="true">color: rgb(255, 255, 255);</string>
-       </property>
-       <property name="text">
-        <string>(date display)</string>
-       </property>
-      </widget>
       <widget class="QLabel" name="dateDisplay_label">
        <property name="geometry">
         <rect>
-         <x>1060</x>
-         <y>30</y>
-         <width>171</width>
+         <x>1050</x>
+         <y>50</y>
+         <width>181</width>
          <height>31</height>
         </rect>
        </property>
        <property name="font">
         <font>
-         <family>Roboto</family>
          <pointsize>20</pointsize>
         </font>
        </property>
@@ -4521,7 +4660,7 @@ QPushButton:focus{
         <string notr="true">color: rgb(255, 255, 255)</string>
        </property>
        <property name="text">
-        <string>(Time label)</string>
+        <string>(Date label)</string>
        </property>
       </widget>
       <widget class="QLabel" name="welcom_label">
@@ -4535,7 +4674,6 @@ QPushButton:focus{
        </property>
        <property name="font">
         <font>
-         <family>Roboto</family>
          <pointsize>31</pointsize>
          <italic>false</italic>
         </font>
@@ -4587,8 +4725,8 @@ QLineEdit:focus{
        <property name="geometry">
         <rect>
          <x>1030</x>
-         <y>732</y>
-         <width>121</width>
+         <y>730</y>
+         <width>111</width>
          <height>21</height>
         </rect>
        </property>
@@ -4822,7 +4960,6 @@ QLineEdit:focus{
         </property>
         <property name="font">
          <font>
-          <family>Roboto</family>
           <pointsize>11</pointsize>
           <weight>75</weight>
           <bold>true</bold>
@@ -4964,7 +5101,6 @@ QLineEdit:focus{
         </property>
         <property name="font">
          <font>
-          <family>Roboto</family>
           <pointsize>11</pointsize>
           <weight>75</weight>
           <bold>true</bold>
@@ -5122,16 +5258,16 @@ QLineEdit:focus{
       <widget class="QPushButton" name="loginHere">
        <property name="geometry">
         <rect>
-         <x>350</x>
+         <x>360</x>
          <y>770</y>
          <width>91</width>
-         <height>20</height>
+         <height>21</height>
         </rect>
        </property>
        <property name="font">
         <font>
          <family>Roboto</family>
-         <pointsize>10</pointsize>
+         <pointsize>9</pointsize>
          <weight>75</weight>
          <bold>true</bold>
          <underline>true</underline>
@@ -5300,7 +5436,7 @@ QLineEdit:focus{
       <widget class="QLabel" name="label_6">
        <property name="geometry">
         <rect>
-         <x>180</x>
+         <x>190</x>
          <y>770</y>
          <width>171</width>
          <height>20</height>
@@ -5424,7 +5560,7 @@ QLineEdit:focus{
         <rect>
          <x>160</x>
          <y>120</y>
-         <width>311</width>
+         <width>321</width>
          <height>41</height>
         </rect>
        </property>
@@ -5445,6 +5581,9 @@ QLineEdit:focus{
        </property>
        <property name="text">
         <string>Account Registration</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
        </property>
       </widget>
       <widget class="QLabel" name="labelNameError">
@@ -5630,7 +5769,7 @@ QLineEdit:focus{
       <widget class="QLabel" name="label_12">
        <property name="geometry">
         <rect>
-         <x>710</x>
+         <x>700</x>
          <y>510</y>
          <width>481</width>
          <height>41</height>
